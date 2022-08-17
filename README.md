@@ -28,7 +28,6 @@ Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
 
 
 ## Dataset
-- The brackish dataset contains 89 videos are provided with annotations in the AAU Bounding Box, YOLO Darknet, and MS COCO formats. Fish are annotated in six coarse categories. Categories: Big fish, Small fish, Crab, Shrimp, Jellyfish, Starfish.
-- Paper: [Detection of Marine Animals in a New Underwater Dataset with Varying Visibility](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AAMVEM/Pedersen_Detection_of_Marine_Animals_in_a_New_Underwater_Dataset_with_CVPRW_2019_paper.pdf)
-- Data: [The Brackish Dataset](https://www.kaggle.com/aalborguniversity/brackish-dataset)
-![A group of Sticklebacks](/data/ex1-980x551.png) ![Lumpsucker in clear water](/data/BigFish1.png)
+- The DOTA includes large-scale aerial images for object detection. To get the images, different sensors and platforms are used. The size of an image in DOTA data is in the range of 800×800 to 20,000×20,000 pixels. DOTA-v1.0 contains 15 common categories, 2,806 images and 188, 282 instances. The proportions of the training set, validation set, and testing set in DOTA-v1.0 are 1/2, 1/6, and 1/3, respectively.
+- Paper: [DOTA: A Large-scale Dataset for Object Detection in Aerial Images](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.pdf)
+- Data: [The Dota dataset](https://captain-whu.github.io/DOTA/dataset.html)
