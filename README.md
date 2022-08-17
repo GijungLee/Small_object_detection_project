@@ -7,9 +7,8 @@ The detection of the small object has been challenging because of the limitation
 ![result](/data/Picture3.png)
 
 | Validation | mAP | mAP_50 | mAP_75 | mAP_S | mAP_M | mAP_L |
-| -------- | -------- | -------- | -------- | -------- |-------- |
-| 1X - Image | 15.7% | 26.3% | 15.6% | 2.8% | 12.4% | 30.1% |
 | -------- | -------- | -------- | -------- | -------- | -------- |
+| 1X - Image | 15.7% | 26.3% | 15.6% | 2.8% | 12.4% | 30.1% |
 | 2X - Image | 10.9% | 18.3% | 10.8% | 0.1% | 3.9% | 14.4% |
 
 Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
