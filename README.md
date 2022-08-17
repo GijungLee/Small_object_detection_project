@@ -6,10 +6,19 @@ The detection of the small object has been challenging because of the limitation
 ## Results
 ![result](/data/Picture3.png)
 
+- Results on DOTA-v1.0 validation set with Fast RCNN. – without sliced images inference.
+
 | Validation | mAP | mAP_50 | mAP_75 | mAP_S | mAP_M | mAP_L |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1X - Image | 15.7% | 26.3% | 15.6% | 2.8% | 12.4% | 30.1% |
 | 2X - Image | 10.9% | 18.3% | 10.8% | 0.1% | 3.9% | 14.4% |
+
+- Results on DOTA-v1.0 validation set with Fast RCNN. – with sliced images inference.
+
+| Validation | mAP | mAP_50 | mAP_75 | mAP_S | mAP_M | mAP_L |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 1X - Image | 26.9% | 45.4% | 27.1% | 8.2% | 27.1% | 39.8% |
+| 2X - Image | 27.5% | 46.4% | 28.0% | 3.4% | 21.7% | 32.2% |
 
 Results of video summarization. PL: Pseudo labels, RL: Reconstruction loss
 
