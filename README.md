@@ -17,19 +17,20 @@ Prediction test images - Left: without sliced inference, Right: with sliced infe
 
 Prediction on the low-resolution test images with sliced inference – Left: without super-resolution, Right: with super-resolution.
 
-- Table1: Results on DOTA-v1.0 validation set with Fast RCNN. – without sliced images inference.
 
 | Validation | mAP | mAP_50 | mAP_75 | mAP_S | mAP_M | mAP_L |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1X - Image | 15.7% | 26.3% | 15.6% | 2.8% | 12.4% | 30.1% |
 | 2X - Image | 10.9% | 18.3% | 10.8% | 0.1% | 3.9% | 14.4% |
 
-- Table2: Results on DOTA-v1.0 validation set with Fast RCNN. – with sliced images inference.
+- Table1: Results on DOTA-v1.0 validation set with Fast RCNN. – without sliced images inference.
 
 | Validation | mAP | mAP_50 | mAP_75 | mAP_S | mAP_M | mAP_L |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 1X - Image | 26.9% | 45.4% | 27.1% | 8.2% | 27.1% | 39.8% |
 | 2X - Image | 27.5% | 46.4% | 28.0% | 3.4% | 21.7% | 32.2% |
+
+- Table2: Results on DOTA-v1.0 validation set with Fast RCNN. – with sliced images inference.
 
 ## Dataset
 - The DOTA includes large-scale aerial images for object detection. To get the images, different sensors and platforms are used. The size of an image in DOTA data is in the range of 800×800 to 20,000×20,000 pixels. DOTA-v1.0 contains 15 common categories, 2,806 images and 188, 282 instances. The proportions of the training set, validation set, and testing set in DOTA-v1.0 are 1/2, 1/6, and 1/3, respectively.
