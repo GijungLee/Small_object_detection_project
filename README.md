@@ -15,7 +15,7 @@ Prediction test images - Left: without sliced inference, Right: with sliced infe
 
 ![result2](/data/Picture2.png)
 
-Prediction on the high-resolution test images with sliced inference – Left: without super-resolution, Right: with super-resolution.
+Prediction on the low-resolution test images with sliced inference – Left: without super-resolution, Right: with super-resolution.
 
 - Table1: Results on DOTA-v1.0 validation set with Fast RCNN. – without sliced images inference.
 
