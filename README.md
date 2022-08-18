@@ -10,9 +10,11 @@ The Efficient Sub-Pixel Convolutional Neural Network (ESPCN) upscales the resolu
 
 ## Results
 ![result](/data/Picture1.png)
+
 Prediction test images - Left: without sliced inference, Right: with sliced inference
 
 ![result2](/data/Picture2.png)
+
 Prediction on the high-resolution test images with sliced inference – Left: without super-resolution, Right: with super-resolution.
 
 - Table1: Results on DOTA-v1.0 validation set with Fast RCNN. – without sliced images inference.
