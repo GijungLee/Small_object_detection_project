@@ -40,5 +40,5 @@ Prediction on the low-resolution test images with sliced inference – Left: wit
 - Data: [The Dota dataset](https://captain-whu.github.io/DOTA/dataset.html)
 
 ## Reference
-https://blog.ml6.eu/how-to-detect-small-objects-in-very-large-images-70234bab0f98
+1. [How to detect small objects in (very) large images](https://blog.ml6.eu/how-to-detect-small-objects-in-very-large-images-70234bab0f98)
 https://github.com/obss/sahi/blob/main/demo/slicing.ipynb
