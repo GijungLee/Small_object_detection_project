@@ -8,7 +8,7 @@ Paper: [Improving performance in object detection for small objects](https://gij
 ## ESPCN Model
 The Efficient Sub-Pixel Convolutional Neural Network (ESPCN) upscales the resolution at the end of the network. In ESPCN, the upscaling step is applied in the last layer. For this reason, the low-resolution image can be fed to the network unlike the SRCNN and FSRCNN. With this benefit, the ESPCN does not need to use the interpolation method. Moreover, the reduced input image size can make the model use a smaller kernel size that is used to extract features.
 
-- Paper: [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/pdf/1609.05158.pdf)
+Paper: [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/pdf/1609.05158.pdf)
 
 ## Results
 ![result](/data/Picture1.png)
