@@ -44,4 +44,4 @@ You can check the results with below links
 
 ## Reference
 1. [How to detect small objects in (very) large images](https://blog.ml6.eu/how-to-detect-small-objects-in-very-large-images-70234bab0f98)
-2. [SAHI: Slicing Aided Hyper Inference](https://github.com/obss/sahi/blob/main/demo/slicing.ipynb)
+2. [SAHI: Slicing Aided Hyper Inference](https://github.com/obss/sahi)
