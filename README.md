@@ -34,7 +34,7 @@ Prediction on the low-resolution test images with sliced inference – Left: wit
 
 - Table2: Results on DOTA-v1.0 validation set with Fast RCNN. – with sliced images inference.
 
-You can check the results with below links 
+You can check the results with the below links 
 - Link for prediction results: [With upscaled images](https://drive.google.com/drive/folders/1tioKKtIJDxPaBKCh6-aTkmWPvy-WY_Qt?usp=sharing), [Without upscaled images](https://drive.google.com/drive/folders/1yH1gUZkCi6xn0GtAt0WTpd0Oj-PoQ3fJ?usp=sharing)
 
 ## Dataset
