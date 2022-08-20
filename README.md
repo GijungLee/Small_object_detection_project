@@ -34,6 +34,9 @@ Prediction on the low-resolution test images with sliced inference – Left: wit
 
 - Table2: Results on DOTA-v1.0 validation set with Fast RCNN. – with sliced images inference.
 
+You can check the results with below links 
+- Link for prediction results: [With upscaled images](https://drive.google.com/drive/folders/1tioKKtIJDxPaBKCh6-aTkmWPvy-WY_Qt?usp=sharing), [Without upscaled images](https://drive.google.com/drive/folders/1yH1gUZkCi6xn0GtAt0WTpd0Oj-PoQ3fJ?usp=sharing)
+
 ## Dataset
 - The DOTA includes large-scale aerial images for object detection. To get the images, different sensors and platforms are used. The size of an image in DOTA data is in the range of 800×800 to 20,000×20,000 pixels. DOTA-v1.0 contains 15 common categories, 2,806 images and 188, 282 instances. The proportions of the training set, validation set, and testing set in DOTA-v1.0 are 1/2, 1/6, and 1/3, respectively.
 - Paper: [DOTA: A Large-scale Dataset for Object Detection in Aerial Images](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.pdf)
